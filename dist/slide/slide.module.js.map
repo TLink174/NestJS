@@ -1,0 +1,1 @@
+{"version":3,"file":"slide.module.js","sourceRoot":"","sources":["../../src/slide/slide.module.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAAwC;AACxC,2DAAuD;AACvD,oEAAgE;AAChE,uDAAmD;AAMnD,IAAa,WAAW,GAAxB,MAAa,WAAW;CAAG,CAAA;AAAd,WAAW;IAJvB,IAAA,eAAM,EAAC;QACN,WAAW,EAAE,CAAC,kCAAe,CAAC;QAC9B,SAAS,EAAE,CAAC,4BAAY,EAAE,GAAG,gCAAc,CAAC;KAC7C,CAAC;GACW,WAAW,CAAG;AAAd,kCAAW"}
